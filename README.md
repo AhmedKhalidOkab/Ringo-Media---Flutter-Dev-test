@@ -24,6 +24,9 @@ This project features a login interface, a project summary screen, and a calenda
  
  <img src="assets/calender2.png" alt="Login Screen" >
 
+ Tasks
+ <img src="assets/tasks.png" alt="Login Screen" >
+
 
 
 
