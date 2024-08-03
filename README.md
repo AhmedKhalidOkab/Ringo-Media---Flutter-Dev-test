@@ -2,6 +2,7 @@
 
 
 ## Overview
+This project features a login interface, a project summary screen, and a calendar for scheduling tasks.
 
  Login Screen 
 <img src="assets/login1.png" alt="Login Screen" >
@@ -22,9 +23,8 @@
  
  <img src="assets/Calenderpng.png" alt="Login Screen" >
 
-![Project Summary](assets/project_summary.png)
 
-This project features a login interface, a project summary screen, and a calendar for scheduling tasks.
+
 
 ## Demo Video
 
