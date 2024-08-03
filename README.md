@@ -17,6 +17,9 @@
  
  <img src="assets/projectSummary.png" alt="Login Screen" >
 
+ 
+ <img src="assets/Calenderpng.png" alt="Login Screen" >
+
 ![Project Summary](assets/project_summary.png)
 
 This project features a login interface, a project summary screen, and a calendar for scheduling tasks.
