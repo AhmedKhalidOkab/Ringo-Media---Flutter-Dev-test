@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Overview
 
-![Login Screen](assets/login1.png){: width="200" height="100"}
+<img src="assets/login1.png" alt="Login Screen" width="200" height="100">
 
 
 
