@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Overview
 
-![Login Screen](assets/login1.png){: height="50" width="300"}
+![Login Screen](assets/login1.png){: width="200" height="100"}
+
+
+
 ![Project Summary](assets/project_summary.png)
 
 This project features a login interface, a project summary screen, and a calendar for scheduling tasks.
